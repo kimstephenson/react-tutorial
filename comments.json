@@ -23,5 +23,25 @@
         "id": 1464988717637,
         "author": "evil",
         "text": "<a href=\"javascript:alert(1)\">alert(1)</a>"
+    },
+    {
+        "id": 1476031637203,
+        "author": "Kim",
+        "text": "hi"
+    },
+    {
+        "id": 1476031637204,
+        "author": "Kim",
+        "text": "hi"
+    },
+    {
+        "id": 1476041529705,
+        "author": "me",
+        "text": "yo"
+    },
+    {
+        "id": 1476041646371,
+        "author": "Hey",
+        "text": "Here's a comment"
     }
 ]
